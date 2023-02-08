@@ -14,7 +14,9 @@ https://www.tutorialspoint.com/flask/index.htm
 * ```mkdir newproj```
 * ```cd newproj```
 * ```virtualenv venv```
-安裝 FLASK
+*安裝 FLASK
 * ```pip install Flask```
+###基本架構
+
 ### Learning Log
 * 20230208初階練習 準備斷詞
