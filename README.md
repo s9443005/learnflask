@@ -16,7 +16,14 @@ https://www.tutorialspoint.com/flask/index.htm
 * ```virtualenv venv```
 *安裝 FLASK
 * ```pip install Flask```
-###基本架構
-
+### Application基本架構
+* Hello.py
+### Routing路徑
+* 解釋基本架構
+### Variable Rules以路徑傳遞參數
+* 傳字串、整數、實數、NotFound
+### URL BUILDING轉路徑
+* 示範如何依輸入字串來叫不同函數
+* ```url_for()```函數 is very useful for dynamically building a URL for a specific function. 第1個參數是```函數名稱```
 ### Learning Log
 * 20230208初階練習 準備斷詞
